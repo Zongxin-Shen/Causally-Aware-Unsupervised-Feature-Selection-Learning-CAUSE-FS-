@@ -16,9 +16,12 @@ Code of CAUSE-FS
 -------------
 
 The code of the proposed CAUSE-FS can be found in the "CAUSE-FS" folder. Some explanations regrading the code are presented below:
-1.The file "CAUSE-FS" is the core part of our algorithm, which contains the details of the optimization.
-2.The file "InitPar" is used to initialize parameters.
-3.The file "CalcMeasure" is used to compute the performance metrics.
+
+1. The file "CAUSE-FS" is the core part of our algorithm, which contains the details of the optimization.
+
+2. The file "InitPar" is used to initialize parameters.
+
+3. The file "CalcMeasure" is used to compute the performance metrics.
 
 Demo
 -------------
